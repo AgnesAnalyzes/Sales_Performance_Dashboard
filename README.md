@@ -21,7 +21,7 @@ A **dimensional data model** (star schema) was implemented to ensure scalability
 The model separates **facts** (sales transactions) from **dimensions** (customers, products, time, distributors, and sales representatives).
 
 ### Data Model Overview
-![Power BI Data Model](images/powerbi_data_model.png)
+![Power BI Data Model](powerbi_data_model.png)
 
 ### Fact Table
 **FactOrders**
