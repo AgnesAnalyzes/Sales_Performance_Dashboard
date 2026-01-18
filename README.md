@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI)
 
 ## Project Overview
-This project in german language presents a **multi-page, interactive Power BI dashboard** for analyzing pharmaceutical sales performance in **Germany and Poland**.
+This project presents a **multi-page, interactive Power BI dashboard** in german language for analyzing pharmaceutical sales performance in **Germany and Poland**.
 
 The analysis supports **data-driven decision-making** for different business stakeholders by combining a clean dimensional data model with business-focused KPIs, filters, and visualizations.
 
